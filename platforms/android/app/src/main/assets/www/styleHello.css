@@ -1,0 +1,44 @@
+input.ng-invalid {
+  background-color: pink;
+}
+input.ng-valid {
+  background-color: palegreen;
+}
+h5 {
+  color: cornflowerblue;
+  margin-top: 1rem !important;
+}
+table{
+  margin-top: 1rem;
+  width: 80% !important;
+}
+div.access * {
+  padding: 0rem 0.5rem 0rem 0.5rem;
+}
+.rounded-pill {
+  background-color: honeydew;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: large;
+  font-weight: bold;
+}
+.striped{
+  background-color: lightcyan;
+}
+.rchedLimit{
+  background-color: indianred;
+}
+.collapsable{
+  background-color: gray;
+  padding: 1rem 0.3rem 1rem 0.3rem;
+  border: 1px darkolivegreen;
+}
+.badge{
+  height: fit-content;
+  margin: 0.5em;
+  font-size: small;
+}
+.border{
+  border: 1px solid;
+}
